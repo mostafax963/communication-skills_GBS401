@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // ---------------------------------------------------------
   // الإعدادات
   // ---------------------------------------------------------
-  const CHAPTER_COUNT = 5;
+  const CHAPTER_COUNT = 10;
   const DATA_PATH = "data/chapter";
 
   // جداول مرجعية مأخوذة من محتوى الملخص نفسه، هدفها تحسين العرض فقط.
